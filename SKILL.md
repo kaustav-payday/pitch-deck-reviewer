@@ -17,7 +17,12 @@ Review pitch decks through the lens of two complementary frameworks. Read [refer
    - Rate each: Strong / Weak / Missing
 4. **Assess the 4 Conviction Layers** — For each layer (Market, Insight, Founder, Execution), rate how well the deck builds conviction: Strong / Needs Work / Missing.
 5. **Check narrative flow** — Do the slides follow the Inevitable Story arc (Blocks 1→7)? Flag breaks in logic or missing narrative bridges.
-6. **Produce the review output.**
+6. **Audit deck economy** — Identify bloat and consolidation opportunities:
+   - Slides covering the same Block that should be merged into one punchy slide
+   - Slides that dilute a point by spreading it too thin across multiple slides
+   - Filler slides (appendix-style data, generic market size charts, logo walls) that add length without conviction
+   - Overall slide count vs. the ideal 10–15 range for a VC deck
+7. **Produce the review output.**
 
 ## Review Output Format
 
@@ -56,6 +61,13 @@ Evaluate how well the deck follows the 7-Block sequence. Identify:
 - **A→C Journey**: [Does it feel clear, credible, and inevitable?]
 - **Valuation Gap**: [Does the current stage (A) suggest the price is meaningfully below C?]
 
+### Deck Economy
+
+- **Slide count**: [N slides] — [Over / Under / Within] the 10–15 ideal range
+- **Merge candidates**: List slides that cover the same Block and would land harder as a single slide. Explain what the merged slide should say.
+- **Cut candidates**: List slides that add length without adding conviction. Explain why.
+- **Split candidates** (rare): List slides trying to do too much that should be broken apart.
+
 ### Top 3 Improvements
 
 Prioritized, actionable changes that would most improve investor conviction.
@@ -67,3 +79,5 @@ Prioritized, actionable changes that would most improve investor conviction.
 - Block 4 (Earned Secret) is the hardest to nail and the most differentiated — pay extra attention.
 - Traction (Block 6) is the single most powerful risk-reducer — if present, evaluate how well it's presented.
 - The deck should make the A→C journey feel **inevitable**, not just possible.
+- Shorter decks win. Every slide must earn its spot. Two okay slides are weaker than one great slide — always recommend merging when the message overlaps.
+- If a deck exceeds 15 slides, treat length itself as a red flag and explicitly call it out.
